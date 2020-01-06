@@ -4,8 +4,9 @@ require 'directors_database'
 # Find a way to accumulate the :worldwide_grosses and return that Integer
 # using director_data as input
 def gross_for_director(director_data)
-  dir_index = 0 
-  row
+   grand_total = 0 
+   row_index = 0 
+   
 
 end
 
